@@ -9,7 +9,7 @@ if (isset($_GET['ghosts'])) {
         $number_of_ghosts = (int)$_GET['ghosts'];
     }
     else {
-        $number_of_ghosts = 2;
+        $number_of_ghosts = 6;
     }
 ?>
 <!DOCTYPE html>
